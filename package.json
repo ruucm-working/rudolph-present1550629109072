@@ -1,0 +1,22 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.9.7"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.7",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "533e9f5c-1b00-4dd5-a260-e813ff4537ca"
+	},
+	"author": ". ruucm",
+	"dependencies": {
+		"@framer/kasimir.iphone-x-kit": "^1.18.0",
+		"@framer/ruucm.snow": "^1.2.0",
+		"styled-components": "^4.1.2"
+	}
+}
